@@ -1,0 +1,25 @@
+_repo: A-Little-Bit-of-Fluff-A-Farce-in-Three-Acts_52851
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ellis, Walter
+    alias: Ellis, Walter W.
+    birthdate: 1874
+    deathdate: 1956
+    gutenberg_agent_id: '47082'
+    url: http://www.gutenberg.org/2009/agents/47082
+description: ''
+gutenberg_issued: '2016-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52851'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: 'A Little Bit of Fluff: A Farce in Three Acts'
+url: http://www.gutenberg.org/ebooks/52851
